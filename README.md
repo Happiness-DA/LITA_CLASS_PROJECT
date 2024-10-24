@@ -1,2 +1,7 @@
 # LITA_CLASS_PROJECT
-## LITA_CLASS_P
+
+### Project Title: Introduction to Excel
+
+### Project Overview:
+
+## Data Sources
