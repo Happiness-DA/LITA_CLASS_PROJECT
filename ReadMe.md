@@ -34,6 +34,8 @@ Excel's pivot tables are a useful tool for reporting because they can summarize 
 
 
 
+
+
 ### Project Title: Introduction to Structured Query Language
 ##### Structured Query Language is a domain-specific language used to manage data, especially in a relational database management system. It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables.
 
