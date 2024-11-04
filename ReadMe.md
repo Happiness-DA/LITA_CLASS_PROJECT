@@ -38,11 +38,6 @@ Excel's pivot tables are a useful tool for reporting because they can summarize 
 [IMG_20241104_145804_241~2](https://github.com/user-attachments/assets/2a82e257-f822-4a49-85d3-d679368f2e10),
 
 
-
-
-
-
-
 ### Project Title: Introduction to Structured Query Language
 ##### Structured Query Language is a domain-specific language used to manage data, especially in a relational database management system. It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables.
 
@@ -85,6 +80,9 @@ each of these commands are unique and play different roles in operating SQL.
 |update salary set Salary = 7059436.8870 where Staffid = 'AB401'|changes the salary for 'AB401' to 7059436.8870| 
 
 
+
+
+
 ### Project Title: Introduction to PowerBI
 ##### Power BI is a business analytics tool that helps users transform data into insights and make data-driven decisions. Power BI is a data visualization platform used primarily for business intelligence purposes. Power BI stands for Power Business Intelligence and refers to a set of software tools and connectors that help you transform data from multiple sources into actionable insights.
 
@@ -105,7 +103,21 @@ During data analysis files are imported into power BI and they are transformed. 
 ## Reporting
 Reporting in PowerBI involves the use of tables, matrix, cards, slicers, pie charts, donut charts, histograms, barcharts e.t.c to summarize the data making it interactive and appealing to the eyes. The goal of reporting is to make the data easily understandable. 
 
-#### Examples of PowerBI Pojects
+#### Examples of PowerBI Projects
+[IMG_20241104_223826_474~2](https://github.com/user-attachments/assets/1586099e-1bd1-4354-b45a-264b1b17e807)
+
+[IMG_20241104_223408_881~2](https://github.com/user-attachments/assets/41797f59-0ac0-4f3b-9d46-04f5299bd20c)
+
+[IMG_20241104_223333_476~2](https://github.com/user-attachments/assets/3817f9a6-d1a6-4388-81a6-b36e3a390b7b)
+
+[IMG_20241104_223307_786~2](https://github.com/user-attachments/assets/99f164e7-1cd1-47c0-b4c1-7e1fe91f0613)
+
+[IMG_20241104_223221_166~2](https://github.com/user-attachments/assets/570b5259-f6ff-448f-9c32-fc2a4422436e)
+
+[IMG_20241104_223206_770~2](https://github.com/user-attachments/assets/1dc13a51-62ea-4144-b240-3eab4e20c6c9)
+
+[IMG_20241104_223206_770](https://github.com/user-attachments/assets/21764f74-8f30-47f5-8a16-a4640dde0482)
+
 
 
 
