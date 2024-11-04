@@ -1,4 +1,4 @@
-![IMG_20241104_145804_241~2](https://github.com/user-attachments/assets/6c30813a-5b1d-4859-8fcc-3ca8840148d3)# LITA_CLASS_PROJECT
+# LITA_CLASS_PROJECT
 
 ### Project Title: Introduction to Excel
 ##### Microsoft Excel is a spreadsheet program that allows users to organize, format, calculate, store, sort, and manipulate data. Although Excel is not a database, it is often used in data analytics to assess large amounts of information and create visualizations.
@@ -29,6 +29,7 @@ During the process of data cleaning it is necessary to also format the data. Thi
 Excel's pivot tables are a useful tool for reporting because they can summarize large amounts of data to generate insights and reports.Pivot tables allow users to quickly and easily summarize data, create interactive dashboards and generate reports efficiently.
 
 #### Examples of Excel Pojects
+
 
 ### Project Title: Introduction to Structured Query Language
 ##### Structured Query Language is a domain-specific language used to manage data, especially in a relational database management system. It is particularly useful in handling structured data, i.e., data incorporating relations among entities and variables.
