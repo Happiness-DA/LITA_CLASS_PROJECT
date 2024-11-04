@@ -29,8 +29,7 @@ During the process of data cleaning it is necessary to also format the data. Thi
 Excel's pivot tables are a useful tool for reporting because they can summarize large amounts of data to generate insights and reports.Pivot tables allow users to quickly and easily summarize data, create interactive dashboards and generate reports efficiently.
 
 #### Examples of Excel Pojects
-https://github.com/Happiness-DA/LITA_CLASS_PROJECT/blob/main/IMG_20241104_145804_241.jpg
-https://github.com/Happiness-DA/LITA_CLASS_PROJECT/blob/main/IMG_20241104_145804_241~2.jpg
+IMG_20241104_145804_241.jpg
 
 
 ### Project Title: Introduction to Structured Query Language
@@ -48,7 +47,7 @@ https://github.com/Happiness-DA/LITA_CLASS_PROJECT/blob/main/IMG_20241104_145804
     2.  For Data Visualization
  
 ## Data Extraction
-Using appropriate queries data could be extracted from files containing long rows and columns of data.
+Using appropriate queries, data could be extracted from files containing long rows and columns of data.
 
 #### Statements used in SQL
 These SQL commands are mainly categorized into five categories
@@ -66,7 +65,39 @@ TCL – Transaction Control Language
 each of these commands are unique and play different roles in operating SQL.
 
 #### Examples of SQL Commands and their outcomes 
-select * from Employee
+|SQL Command|Result|
+|---------|---------|
+|select * from Employee|Returns the table employee with all the columns|
+|drop table Employee|Deletes the table structure and record|
+|delete from Employee where staffid = 'AB212'|deletes the record for the specified staffid|
+|select SUM(salary) AS TOTALSALARY FROM Salary|returns the totalsalary|
+|update salary set Salary = 7059436.8870 where Staffid = 'AB401'|changes the salary for 'AB401' to 7059436.8870| 
+
+
+### Project Title: Introduction to PowerBI
+##### Power BI is a business analytics tool that helps users transform data into insights and make data-driven decisions. Power BI is a data visualization platform used primarily for business intelligence purposes. Power BI stands for Power Business Intelligence and refers to a set of software tools and connectors that help you transform data from multiple sources into actionable insights.
+
+### Project Overview 
+##### Power BI: Here Power BI is employed in data visualization to summarize data and report for interactive analysis.
+
+### Data Sources
+##### The data used were provided by the facilitators. The data files includes Excel files and tables created.
+
+### Tool Used
+-Microsoft Power BI
+    1.  For Data Visualization
+    2.  For Reporting
+    
+## Data Visualization
+During data analysis files are imported into power BI and they are transformed. This process is called "ETL" meaning extract, transform and load. During the process of transformation data type is changed, empty columns are removed and the column quality, distribution and profile are also checked. After transformation the data is loaded to analyze.
+
+## Reporting
+Reporting in PowerBI involves the use of tables, matrix, cards, slicers, pie charts, donut charts, histograms, barcharts e.t.c to summarize the data making it interactive and appealing to the eyes. The goal of reporting is to make the data easily understandable. 
+
+#### Examples of PowerBI Pojects
+
+
+
 
 
 
