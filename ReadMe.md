@@ -28,7 +28,11 @@ During the process of data cleaning it is necessary to also format the data. Thi
 #### Reporting with Pivot table in Excel
 Excel's pivot tables are a useful tool for reporting because they can summarize large amounts of data to generate insights and reports.Pivot tables allow users to quickly and easily summarize data, create interactive dashboards and generate reports efficiently.
 
-#### Examples of Excel Pojects
+#### Examples of Excel Projects
+[Untitled design (6)](https://github.com/user-attachments/assets/a8860d17-b1d2-4964-9a47-46b8515e87e8)
+
+
+
 
 
 
