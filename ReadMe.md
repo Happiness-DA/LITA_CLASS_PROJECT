@@ -1,3 +1,4 @@
+
 # LITA_CLASS_PROJECT
 
 ### Project Title: Introduction to Excel
@@ -12,7 +13,6 @@
 ### Tool Used
 - Microsoft Excel 
     1.  For Data Cleaning
-    2.  For Data Formatting
     3.  Data Visualization
  ## Data Cleaning and Preparation
   To carry out an analysis using any data, it is necessary to ensure the data is properly cleaned. Cleaning a data involves changing data types, creating / deleting columns, elimination of blank spaces, incorrect, and outdated information. 
