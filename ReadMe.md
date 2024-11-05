@@ -29,13 +29,16 @@ During the process of data cleaning it is necessary to also format the data. Thi
 Excel's pivot tables are a useful tool for reporting because they can summarize large amounts of data to generate insights and reports.Pivot tables allow users to quickly and easily summarize data, create interactive dashboards and generate reports efficiently.
 
 #### Examples of Excel Projects
-[IMG_20241104_150159_199~2](https://github.com/user-attachments/assets/26475395-2a09-465b-bb5b-5aee9cd95656),
 
-[IMG_20241104_150046_357~2](https://github.com/user-attachments/assets/35f58818-92d7-4021-83d3-1a06634f055e),
+![Screenshot 2024-11-05 122702](https://github.com/user-attachments/assets/1158e403-1928-4022-aaaf-f31f229885e4)
 
-[IMG_20241104_145814_597~2](https://github.com/user-attachments/assets/67c1e312-3c8d-4c28-aab4-e564f57f9e3d),
+![Screenshot 2024-11-05 122901](https://github.com/user-attachments/assets/b20e3f8d-af13-4da8-afa9-d7a19d212032)
 
-[IMG_20241104_145804_241~2](https://github.com/user-attachments/assets/2a82e257-f822-4a49-85d3-d679368f2e10),
+![Screenshot 2024-11-05 122922](https://github.com/user-attachments/assets/ae4c010b-9f45-4886-9729-56f177ee54af)
+
+![Screenshot 2024-11-05 123307](https://github.com/user-attachments/assets/95201d46-02e7-4f77-b96e-d920c2aa0680)
+
+![Screenshot 2024-11-05 123324](https://github.com/user-attachments/assets/3571a8ee-671b-4932-9859-7b64c59cfb6c)
 
 
 ### Project Title: Introduction to Structured Query Language
@@ -104,26 +107,16 @@ During data analysis files are imported into power BI and they are transformed. 
 Reporting in PowerBI involves the use of tables, matrix, cards, slicers, pie charts, donut charts, histograms, barcharts e.t.c to summarize the data making it interactive and appealing to the eyes. The goal of reporting is to make the data easily understandable. 
 
 #### Examples of PowerBI Projects
-[IMG_20241104_223826_474~2](https://github.com/user-attachments/assets/1586099e-1bd1-4354-b45a-264b1b17e807)
 
-[IMG_20241104_223408_881~2](https://github.com/user-attachments/assets/41797f59-0ac0-4f3b-9d46-04f5299bd20c)
+![Screenshot 2024-11-05 122157](https://github.com/user-attachments/assets/309a39f6-532b-4bdb-a45a-e29e7e0db051)
 
-[IMG_20241104_223333_476~2](https://github.com/user-attachments/assets/3817f9a6-d1a6-4388-81a6-b36e3a390b7b)
+![Screenshot 2024-11-05 122210](https://github.com/user-attachments/assets/f4bdbe2e-8337-4ac1-aa3a-9d5b322a232d)
 
-[IMG_20241104_223307_786~2](https://github.com/user-attachments/assets/99f164e7-1cd1-47c0-b4c1-7e1fe91f0613)
+![Screenshot 2024-11-05 122240](https://github.com/user-attachments/assets/64a2e843-201a-411b-bfaa-bb3529406daa)
 
-[IMG_20241104_223221_166~2](https://github.com/user-attachments/assets/570b5259-f6ff-448f-9c32-fc2a4422436e)
+![Screenshot 2024-11-05 122222](https://github.com/user-attachments/assets/ddc8f40a-3a22-467f-b463-8b91e1db08ec)
 
-[IMG_20241104_223206_770~2](https://github.com/user-attachments/assets/1dc13a51-62ea-4144-b240-3eab4e20c6c9)
-
-[IMG_20241104_223206_770](https://github.com/user-attachments/assets/21764f74-8f30-47f5-8a16-a4640dde0482)
-
-
-
-
-
-
-
+![Screenshot 2024-11-05 122337](https://github.com/user-attachments/assets/6464fdfb-7fb6-4f5c-9b7a-933d77ae50ca)
 
 
 
