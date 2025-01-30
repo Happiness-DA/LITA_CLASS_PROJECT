@@ -105,6 +105,4 @@ Reporting in PowerBI involves the use of tables, matrix, cards, slicers, pie cha
 
 ![Screenshot 2024-11-05 122337](https://github.com/user-attachments/assets/6464fdfb-7fb6-4f5c-9b7a-933d77ae50ca)
 
-
-
 ![Screenshot 2025-01-26 195443](https://github.com/user-attachments/assets/2f67b4b8-9e9b-4f71-9f08-d19ec95bbc2a)
