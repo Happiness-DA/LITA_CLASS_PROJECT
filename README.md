@@ -86,7 +86,8 @@ each of these commands are unique and play different roles in operating SQL.
 -Microsoft Power BI
     1.  For Data Visualization
     2.  For Reporting
-    
+    ![Screenshot 2025-01-26 195443](https://github.com/user-attachments/assets/0d0aa239-ab7e-4927-8948-ff2c3a151181)
+
 ## Data Visualization
 During data analysis files are imported into power BI and they are transformed. This process is called "ETL" meaning extract, transform and load. During the process of transformation data type is changed, empty columns are removed and the column quality, distribution and profile are also checked. After transformation the data is loaded to analyze.
 
@@ -105,4 +106,4 @@ Reporting in PowerBI involves the use of tables, matrix, cards, slicers, pie cha
 
 ![Screenshot 2024-11-05 122337](https://github.com/user-attachments/assets/6464fdfb-7fb6-4f5c-9b7a-933d77ae50ca)
 
-![Screenshot 2025-01-26 195443](https://github.com/user-attachments/assets/2f67b4b8-9e9b-4f71-9f08-d19ec95bbc2a)
+
